@@ -9,8 +9,6 @@ import Card from "./cards.jsx";
 import Footer from "./footer.jsx";
 
 
-import { objectOf } from "prop-types";
-
 
 
 //create your first component
